@@ -90,7 +90,7 @@ Config.fontColor = "#FFFFFF";
 // Use hexadecimal color values
 // Primary color
 // default: "#FFDD0A"
-Config.primaryColor = "##0031FF";
+Config.primaryColor = "#0031FF";
 // Secondary color
 // default: "#0A37FF"
 Config.secondaryColor = "#DFF000";
