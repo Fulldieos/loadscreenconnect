@@ -34,7 +34,7 @@ Config.playlist = [
 // 0 = 0%
 // 1 = 100%
 // (you can use values higher than 1 for 100%+ volume)
-// default: 0.1
+// default: 0.05
 Config.songVolume = 0.2;
 
 // Random song order
