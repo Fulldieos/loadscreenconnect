@@ -24,9 +24,9 @@ Config.serverImage = false;
 // only use .ogg files!
 // put songs on the songs folder, then add them here
 Config.playlist = [
-	{url: "dream battle.ogg", name: "dream battle"},
-	{url: "fall of fall.ogg", name: "fall of fall"},
-	{url: "mary the magician.ogg", name: "mary the magician"}
+	{url: "dream battle.ogg", name: "Контент: http://tiny.cc/o30suz"},
+	{url: "fall of fall.ogg", name: "Контент: http://tiny.cc/o30suz"},
+	{url: "mary the magician.ogg", name: "Контент: http://tiny.cc/o30suz"}
 ];
 
 // Songs volume
@@ -34,7 +34,7 @@ Config.playlist = [
 // 0 = 0%
 // 1 = 100%
 // (you can use values higher than 1 for 100%+ volume)
-// default: 0.5
+// default: 0.1
 Config.songVolume = 0.2;
 
 // Random song order
@@ -52,7 +52,7 @@ Config.songShuffle = true;
 // "circle"
 //
 // default: "bars"
-Config.background = "bars";
+Config.background = "squares";
 
 // Background opacity
 // sets the opacity of the audio visualization
@@ -89,10 +89,10 @@ Config.fontColor = "#FFFFFF";
 // Colors used for background/layout purposes
 // Use hexadecimal color values
 // Primary color
-// default: "#00FF9B"
+// default: "#FFDD0A"
 Config.primaryColor = "#00FF9B";
 // Secondary color
-// default: "#21001E"
+// default: "#0A37FF"
 Config.secondaryColor = "#21001E";
 // Background color
 // default: "#101010"
