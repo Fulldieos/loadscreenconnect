@@ -6,7 +6,7 @@ var Config = {};
 
 // Server name
 // default: "audioload"
-Config.serverName = "audioload";
+Config.serverName = "FRS-RP";
 
 // Text background
 // Enable or disable text background
@@ -90,10 +90,10 @@ Config.fontColor = "#FFFFFF";
 // Use hexadecimal color values
 // Primary color
 // default: "#FFDD0A"
-Config.primaryColor = "#00FF9B";
+Config.primaryColor = "#DFF000";
 // Secondary color
 // default: "#0A37FF"
-Config.secondaryColor = "#21001E";
+Config.secondaryColor = "##0031FF";
 // Background color
 // default: "#101010"
 Config.backgroundColor = "#101010";
