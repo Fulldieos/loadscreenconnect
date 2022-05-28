@@ -24,9 +24,9 @@ Config.serverImage = false;
 // only use .ogg files!
 // put songs on the songs folder, then add them here
 Config.playlist = [
-	{url: "dream battle.ogg", name: "Контент: http://tiny.cc/o30suz"},
-	{url: "fall of fall.ogg", name: "Контент: http://tiny.cc/o30suz"},
-	{url: "mary the magician.ogg", name: "Контент: http://tiny.cc/o30suz"}
+	{url: "Fall_Out_Boy.ogg", name: "Контент: http://tiny.cc/o30suz"},
+	{url: "MONATIK - (JoMo).ogg", name: "Контент: http://tiny.cc/o30suz"},
+	{url: "Music - Silen.ogg", name: "Контент: http://tiny.cc/o30suz"}
 ];
 
 // Songs volume
