@@ -93,7 +93,7 @@ Config.fontColor = "#FFFFFF";
 Config.primaryColor = "#DFF000";
 // Secondary color
 // default: "#0A37FF"
-Config.secondaryColor = "##0031FF";
+Config.secondaryColor = "#0031FF";
 // Background color
 // default: "#101010"
 Config.backgroundColor = "#101010";
